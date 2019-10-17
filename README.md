@@ -1,4 +1,4 @@
-# vue-movie
+# imdb-redesign using vuejs
 
 ## Components
 
