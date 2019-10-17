@@ -1,6 +1,6 @@
 # imdb-redesign using vuejs
 
-## Components
+#### Components
 
 ```
 -  Global components
